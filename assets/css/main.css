@@ -3421,4 +3421,5 @@
 	}
 	.pdff {
 		width = 50%;
+		max-width = 700 px;
 		margin: 0 auto;   }
