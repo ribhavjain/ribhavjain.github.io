@@ -2707,11 +2707,11 @@
 		}
 
 		.main.style2 {
-			background: linear-gradient(to right, rgba(135,	206, 250,0.25), rgba(0,191,255,0.8));
-			/*background-color: #6CF; 
+			/*background: linear-gradient(to right, rgba(135,	206, 250,0.25), rgba(0,191,255,0.8));
+			background-color: #6CF; 
 			color: rgba(255, 255, 255, 0.75); */
 			/*background-attachment: fixed,							fixed; */
-			/*background-image: url("../../pictures/backgroundblue"), url("../../images/header.jpg"); */
+			background-image: url("../../pictures/backgroundblue"), url("../../images/header.jpg"); */
 			background-size: auto,							cover;
 		}
 
