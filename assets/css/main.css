@@ -2711,7 +2711,7 @@
 			background-color: #6CF; 
 			color: rgba(255, 255, 255, 0.75); */
 			/*background-attachment: fixed,							fixed; */
-			background-image: url("../../pictures/backgroundblue.jpg"), url("../../images/header.jpg"); */
+			background-image: url("../../images/backgroundblue.jpg"), url("../../images/backgroundblue2.jpg"); */
 			background-size: auto,							cover;
 		}
 
