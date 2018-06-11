@@ -2730,6 +2730,10 @@
 			.main.style2 header p {
 				color: #ffffff;
 			}
+			
+			.main.style2 p {
+				color: #ffffff;
+			}
 
 			.main.style2 header.major:after {
 				background: #ffffff;
