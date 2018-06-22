@@ -1971,6 +1971,18 @@
 		line-height: 1.5em;
 		margin-top: -0.8em;
 	}
+	
+			#messenger {
+		  position: absolute;
+		  top: 50%;
+		  left: 50%;
+		  -webkit-transform: translate(-50%, -50%);
+			  transform: translate(-50%, -50%);
+		  font-family: monospace;
+		  font-size: 20px;
+		  white-space: nowrap;
+		  text-shadow: 0 2px 2px rgba(0, 0, 0, 0.9);
+		}
 
 	header h4 + p,
 	header h5 + p,
