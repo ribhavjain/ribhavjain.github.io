@@ -28,7 +28,20 @@
 					<span class="icon major fa-cloud"></span>
 					<h1><strong>Ribhav Jain</strong></h1>
 		
-					  <p class="slogan"><span>Hey, I'm currently a Computer Engineering student at the University of Illinois at Urbana-Champaign with an interest in Software Development </span></p>
+					<script>var app = document.getElementById('app');
+
+						var typewriter = new Typewriter(app, {
+						    loop: true
+						});
+
+						typewriter.typeString('Hello World!')
+						    .pauseFor(2500)
+						    .deleteAll()
+						    .typeString('Strings can be removed')
+						    .pauseFor(2500)
+						    .deleteChars(7)
+						    .typeString('altered!')
+						    .start(); </script>
 					
 					<h5>
 					<p>Hey, I'm currently a Computer Engineering student at the University of Illinois at Urbana-Champaign <br /> with an interest in Software Development </p> </h5>
