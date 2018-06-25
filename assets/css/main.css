@@ -2339,10 +2339,10 @@
 			  letter-spacing: 2px;
 			  text-align: center;
 			  font-family: 'Courier New', monospace;
-			  font-size: 32px; 
+			  font-size: 1.35em; 
 			  font-weight: 300; 
-			  border-right: 6px solid #27ae60;
-			  overflow: hidden;
+			  /*border-right: 6px solid #27ae60;
+			  overflow: hidden; */
 			  position: relative;
 			  display: block;
 			  @include animation-name(blink-start, typing, blink-end);
@@ -2353,7 +2353,7 @@
 			  @include animation-fill-mode(forwards);
 
 			  span { display: block;  width: 260px; }
-			}
+			}  
 
 			@include keyframes(typing) {
 			  from { width: 0; }
