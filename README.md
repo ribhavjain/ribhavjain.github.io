@@ -1,4 +1,4 @@
-# Personal/portfolio website
+# Personal Website
 
 Visit @ https://ribhavjain.github.io
 
